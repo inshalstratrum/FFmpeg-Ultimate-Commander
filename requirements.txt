@@ -1,0 +1,2 @@
+# Optional dependency for pause controls on Windows
+psutil>=5.9.0

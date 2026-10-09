@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Binaries & Bundles
+ffmpeg.exe
+ffprobe.exe
+*.zip
+*.log
+
+# v0 sandbox internal files
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+.snowflake/
+.v0-trash/
+.vercel/
+
+# Environment variables
+.env*.local
+
+# Node & Next.js
+node_modules/
+.next/
+.DS_Store
+Thumbs.db
+Desktop.ini
